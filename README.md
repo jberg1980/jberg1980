@@ -11,6 +11,7 @@ I am enthusiastic about information security and will positively apply the knowl
 
 | Skill                                         | Associated Project      |
 |-----------------------------------------------|-------------------------|
+|File permissions in Linux                      | 
 |SIEM Implementation and Log Analysis	          |  Detection Lab          |
 |Network Traffic Monitoring and Attack Detection|  Detection Lab          |
 |Security Automation with Shuffle SOAR	        |  SOC Automation Lab     |
