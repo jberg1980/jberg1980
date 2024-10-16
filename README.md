@@ -8,7 +8,7 @@ I have passion for technology and enjoy working with others. I am adaptable, hig
 I am enthusiastic about information security and will positively apply the knowledge to mitigate potential risks, threats, and vulnerabilities As a cybersecurity analyst I will uphold high ethical standards, adhering to the law and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Qualifications
-<a href="https://coursera.org/share/0201dfb19f69f6209fae11470fca7d58/">Google Cybersecurity Certificate</a>
+<a href="https://www.coursera.org/share/0201dfb19f69f6209fae11470fca7d58/">Google Cybersecurity Certificate</a>
 
 ## Skills 
 
