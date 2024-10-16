@@ -9,7 +9,7 @@ I am enthusiastic about information security and will positively apply the knowl
 
 ## Qualifications
 
-https://coursera.org/share/0201dfb19f69f6209fae11470fca7d58/">Google Cybersecurity Certificate</a>
+<a href="https://coursera.org/share/0201dfb19f69f6209fae11470fca7d58/">Google Cybersecurity Certificate</a>
 
 ## Skills 
 
