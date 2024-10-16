@@ -15,7 +15,7 @@ I am enthusiastic about information security and will positively apply the knowl
 
 <a href="https://app.cybrary.it/profile/Joel_Bergman1980?tab=cert-completion&cert=CC-1d5063ce-4a9e-4013-8f6e-c0aa726fb4dd">IT and Cybersecurity Foundations</a>
 
-<a href="https://imgur.com/GpoaAiB">IT Professional</a>
+<a href="https://imgur.com/a/gp4pFGyB">IT Professional</a>
 
 
 ## Skills 
