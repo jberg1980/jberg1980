@@ -1,6 +1,5 @@
-## Hello, I'm Joel Bergman
-
-<a href="https://www.linkedin.com/in/joel-bergman-498b672b1/">Visit my LinkedIn Profile</a>
+## Hello, I'm Joel!
+<a href="https://www.linkedin.com/in/joel-bergman-498b672b1/">Cybersecurity Professional</a>
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
