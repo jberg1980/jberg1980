@@ -24,7 +24,7 @@ I am enthusiastic about information security and will positively apply the knowl
 |---------------------------------------------------|-------------------------|
 |File permissions in Linux                          | <a href="https://github.com/jberg1980/File-permissions-in-Linux.git/">Linux</a>|
 |Install domain controller,create users and groups  | <a href="https://github.com/jberg1980/Windows-Active-Directory-.git/">Windows Active Directory</a>|
-|SIEM Implementation and Log Analysis	              |  Detection Lab          |
+|Apply filters to SQL queries	                      | <a href="https://github.com/jberg1980/Apply-filters-to-SQL-queries.git/">SQL</a>|
 |Network Traffic Monitoring and Attack Detection    |  Detection Lab          |
 |Security Automation with Shuffle SOAR	            |  SOC Automation Lab     |
 |Incident Response Planning and Execution	          |  SOC Automation Lab     |
