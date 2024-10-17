@@ -26,7 +26,7 @@ I am enthusiastic about information security and will positively apply the knowl
 |Install domain controller,create users and groups  | <a href="https://github.com/jberg1980/Windows-Active-Directory-.git/">Windows Active Directory</a>|
 |Apply filters to SQL queries	                      | <a href="https://github.com/jberg1980/Apply-filters-to-SQL-queries.git/">SQL</a>|
 |Network Troubleshooting Basics                     | <a href="https://github.com/jberg1980/Network-Troubleshooting-Basics.git">Network Lab</a>|
-|Security Automation with Shuffle SOAR	            |  SOC Automation Lab     |
+|Firewall Basics	                                  | <a href="https://github.com/jberg1980/Firewall-Basics.git">Firewall Lab</a>|
 |Incident Response Planning and Execution	          |  SOC Automation Lab     |
 |Case Management with TheHive	                      |  SOC Automation Lab     |
 |Scripting and Automation for Threat Mitigation	    |  SOC Automation Lab     |
