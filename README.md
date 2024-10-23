@@ -20,7 +20,7 @@ I am enthusiastic about information security and will positively apply the knowl
 
 ## Skills 
 
-| Skill                                             | Associated Project& & Labs     |
+| Skill                                             | Associated Projects & Labs     |
 |---------------------------------------------------|-------------------------|
 |File permissions in Linux                          | <a href="https://github.com/jberg1980/File-permissions-in-Linux.git/">Linux</a>|
 |Install domain controller,create users and groups  | <a href="https://github.com/jberg1980/Windows-Active-Directory-.git/">Windows Active Directory</a>|
