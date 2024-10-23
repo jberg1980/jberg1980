@@ -28,7 +28,7 @@ I am enthusiastic about information security and will positively apply the knowl
 |Network Troubleshooting Basics                     | <a href="https://github.com/jberg1980/Network-Troubleshooting-Basics.git">Network Lab</a>|
 |Firewall Basics	                                  | <a href="https://github.com/jberg1980/Firewall-Basics.git">Firewall Lab</a>|
 |Incident Report using NIST CSF framework	          | <a href="https://github.com/jberg1980/Incident-Report-using-NIST-security-framework.git">NIST CSF framework</a>|
-|Case Management with TheHive	                      |  SOC Automation Lab     |
+|Respond and recover from a data breach	            | <a href="https://github.com/jberg1980/Respond-and-recover-from-a-data-breach.git">Google Cloud Security Capstone Project</a>|
 |Scripting and Automation for Threat Mitigation	    |  SOC Automation Lab     |
 
 
