@@ -1,7 +1,7 @@
 ## Hello, I'm Joel!
 <a href="https://www.linkedin.com/in/joel-bergman-498b672b1/">Cybersecurity Professional</a>
 
-I have passion for technology and enjoy working with others. I am adaptable, highly motivated, dedicated to solving complex problems and a detail-oriented person. I am interested in an entry-level cybersecurity position as I believe the Google Cybersecurity Certificate will make me a better candidate and will help develop the required professional skills. I only have lab-based experience on this subject.
+I have passion for technology and enjoy working with others. I am adaptable, highly motivated, dedicated to solving complex problems and a detail-oriented person. I am interested in an entry-level cybersecurity position as I believe the Google Cybersecurity Certificate will make me a better candidate and will help develop the required professional skills. I only have lab-based experience and online virtual internships on this subject.
 
 ## Objective
 
@@ -39,6 +39,8 @@ Network
 Endpoint
  
 SIEM
+
+SQL & Python Programming Languages
   
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
