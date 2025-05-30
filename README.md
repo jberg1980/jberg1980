@@ -48,12 +48,8 @@ I am enthusiastic about information security and will positively apply the knowl
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
    
 ### Programming Languages
   SQL | Python
 
-  <!--  Markdown syntax  -->
-[**Splunk**](https://www.splunk.com/)
-  <img src="https://raw.githubusercontent.com/jberg1980/jberg1980/main/splunk-logo.png" alt="Splunk Logo" width="100" height="50">
