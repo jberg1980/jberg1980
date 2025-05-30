@@ -53,4 +53,7 @@ I am enthusiastic about information security and will positively apply the knowl
    
 ### Programming Languages
   SQL | Python
-  
+
+  <!--  Markdown syntax  -->
+[**Splunk**](https://www.splunk.com/) 
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/splunk-logo.png" alt="Splunk Logo" width="100" height="50">
