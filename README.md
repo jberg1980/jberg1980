@@ -1,11 +1,11 @@
 ## Hello, I'm Joel!
 <a href="https://www.linkedin.com/in/joel-bergman-498b672b1/">Cybersecurity Professional</a>
 
-I have passion for technology and enjoy working with others. I am adaptable, highly motivated, dedicated to solving complex problems and a detail-oriented person. I am interested in an entry-level cybersecurity position as I believe the Google Cybersecurity Certificate and GRC Cybersecurity Certificate will make me a better candidate and will help develop the required professional skills. I only have lab-based experience and online virtual internships on this subject.
+I have passion for technology and enjoy working with others. I am adaptable, highly motivated, dedicated to solving complex problems and a detail-oriented person. I am interested in an cybersecurity position as I believe the Cybersecurity Certificates and my enthusiasm to aquire new knowledge and skill to develop in the vast domain of cybersecurity will make me a better candidate. I only have projects, lab-based and online job simulation internship experience on this subject.
 
 ## Objective
 
-I am enthusiastic about information security and will positively apply the knowledge to mitigate potential risks, threats, and vulnerabilities As a cybersecurity analyst I will uphold high ethical standards, adhering to the law and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am enthusiastic about information security and will positively apply the knowledge to mitigate potential risks, threats, and vulnerabilities As a cybersecurity analyst I will uphold high ethical standards, adhering to the law and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike. My journey in computer science has led me to develop a passion for cybersecurity, and with the soft skills I aquired as a Medical Laboratory Technician I am now eager to transition into the Cybersecurity job market.
 
 ## Qualifications
 
