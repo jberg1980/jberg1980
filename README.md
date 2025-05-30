@@ -52,6 +52,5 @@ I am enthusiastic about information security and will positively apply the knowl
 </div>
    
 ### Programming Languages
-  SQL
-  Python
+  SQL | Python
   
