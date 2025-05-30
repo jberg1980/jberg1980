@@ -7,7 +7,7 @@ I have passion for technology and enjoy working with others. I am adaptable, hig
 
 I am enthusiastic about information security and will positively apply the knowledge to mitigate potential risks, threats, and vulnerabilities As a cybersecurity analyst I will uphold high ethical standards, adhering to the law and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike. My journey in computer science has led me to develop a passion for cybersecurity, and with the soft skills I aquired as a Medical Laboratory Technician I am now eager to transition into the Cybersecurity job market.
 
-## Qualifications
+## Qualifications & Certifications
 
 <a href="https://app.kajabi.com/certificates/65537f22">BetterCyberCareer GRC Progam</a>
 
@@ -45,18 +45,13 @@ I am enthusiastic about information security and will positively apply the knowl
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-Endpoint
- 
-SIEM
-
-SQL & Python Programming Languages
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+   
+### Programming Languages
+  SQL
+  Python
   
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-
-    
-## Projects 
-
-Detection Lab
-
-SOC Automation Project
