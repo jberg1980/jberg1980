@@ -35,6 +35,12 @@ I am enthusiastic about information security and will positively apply the knowl
 |Analyzing Phishing Emails                          | <a href="https://github.com/jberg1980/MasterCard-Cybersecurity-Job-Simulation-.git">Mastercard Cybersecurity Job Simulation</a>|
 |Respond to Zero day Ransomware Attack	            | <a href="https://github.com/jberg1980/AIG-Cybersecurity-Job-Simulation.git">AIG Cybersecurity Job Simulation</a>|
 
+### EDUCATION
+<div>
+    <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</div>
+
 
 ## Tools 
 
@@ -56,6 +62,12 @@ I am enthusiastic about information security and will positively apply the knowl
     <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+</div>
+
+### OS
+<div>
+    
+
 </div>
 
 
