@@ -38,6 +38,11 @@ I am enthusiastic about information security and will positively apply the knowl
 |Analyzing Phishing Emails                          | <a href="https://github.com/jberg1980/MasterCard-Cybersecurity-Job-Simulation-.git">Mastercard Cybersecurity Job Simulation</a>|
 |Respond to Zero day Ransomware Attack	            | <a href="https://github.com/jberg1980/AIG-Cybersecurity-Job-Simulation.git">AIG Cybersecurity Job Simulation</a>|
 
+### GOOGLE CLOUD PROFILE
+<div>
+    <a href="https://www.cloudskillsboost.google/profile/activity">GCP Skills boost activity</a>
+</div>
+
 ### EDUCATION
 <div>
     <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
