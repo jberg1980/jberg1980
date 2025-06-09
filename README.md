@@ -32,8 +32,8 @@ I am enthusiastic about information security and will positively apply the knowl
 |Network Troubleshooting Basics                     | <a href="https://github.com/jberg1980/Network-Troubleshooting-Basics.git">Network Lab</a>|
 |Firewall Basics	                                | <a href="https://github.com/jberg1980/Firewall-Basics.git">Firewall Lab</a>|
 |Incident Report using NIST CSF framework	        | <a href="https://github.com/jberg1980/Incident-Report-using-NIST-security-framework.git">NIST CSF framework</a>|
+|Configuring IAM Policies on GCP     	            | <a href="https://github.com/jberg1980/Google-Cloud-IAM-Policy.git">Google Cloud Platform Basics</a>|
 |Respond and recover from a data breach	            | <a href="https://github.com/jberg1980/Respond-and-recover-from-a-data-breach.git">Google Cloud Security Capstone Project</a>|
-|Configuring IAM Policies on GCP     	            | <a href="">Google Cloud Platform Basics</a>|
 |Identity and Access Management (IAM)	            | <a href="https://github.com/jberg1980/Tata-Cyber-Security-Analyst-Job-Simulation.git">Tata Cybersecurity Analyst Job Simulation</a>|
 |Analyzing Phishing Emails                          | <a href="https://github.com/jberg1980/MasterCard-Cybersecurity-Job-Simulation-.git">Mastercard Cybersecurity Job Simulation</a>|
 |Respond to Zero day Ransomware Attack	            | <a href="https://github.com/jberg1980/AIG-Cybersecurity-Job-Simulation.git">AIG Cybersecurity Job Simulation</a>|
