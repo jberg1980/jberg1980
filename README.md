@@ -40,7 +40,7 @@ I am enthusiastic about information security and will positively apply the knowl
 
 ## Hands-on Labs
 
-### QWIKLABS GOOGLE CLOUD PROFILE
+### GOOGLE CLOUD QWIKLABS PROFILE
 <div>
     <a href="https://www.cloudskillsboost.google/profile/activity">GCP Skills boost activity</a>
 </div>
