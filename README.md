@@ -9,7 +9,7 @@ I am enthusiastic about information security and will positively apply the knowl
 
 ## Qualifications & Certifications
 
-<a href="https://www.linkedin.com/learning/certificates/56b56b5b94d6d7aa393b3088f5c0d46bf85b22e5448f16793465e5979465c471?trk=share_certificate">Penetration Testing Project with Metasploit</a>
+<a href="https://www.linkedin.com/learning/certificates/56b56b5b94d6d7aa393b3088f5c0d46bf85b22e5448f16793465e5979465c471?trk=share_certificate">Penetration Testing with Metasploit</a>
 
 <a href="https://app.kajabi.com/certificates/65537f22">BetterCyberCareer GRC Progam</a>
 
