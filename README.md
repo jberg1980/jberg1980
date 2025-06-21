@@ -39,7 +39,7 @@ I am enthusiastic about information security and will positively apply the knowl
 |Identity and Access Management (IAM)	            | <a href="https://github.com/jberg1980/Tata-Cyber-Security-Analyst-Job-Simulation.git">Tata Cybersecurity Analyst Job Simulation</a>|
 |Analyzing Phishing Emails                          | <a href="https://github.com/jberg1980/MasterCard-Cybersecurity-Job-Simulation-.git">Mastercard Cybersecurity Job Simulation</a>|
 |Respond to Zero day Ransomware Attack	            | <a href="https://github.com/jberg1980/AIG-Cybersecurity-Job-Simulation.git">AIG Cybersecurity Job Simulation</a>|
-|Penetration Testing	                                | <a href="">Metasploit Project</a>|
+|Penetration Testing	                            | <a href="https://github.com/jberg1980/Penetration-Testing-with-Metasploit.git">Metasploit Project</a>|
 
 ## Hands-on Labs
 
